@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Open Energy Science"
 title_separator          : "-"
-name                     : &name "Dr Andrew Lyden"
-description              : &description "Lecturer in Energy System Economics"
+name                     : &name "Open Energy Science"
+description              : &description "Research group led by Dr Andrew Lyden, Lecturer in Energy System Economics"
 url                      : https://OpenEnergyScience.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OpenEnergyScience.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Andrew Lyden"
-  avatar           : "profile.png"
-  bio              : "Lecturer in Energy System Economics"
+  name             : "Open Energy Science"
+  avatar           : "OpenEnergyScience Logo.png"
+  bio              : "Research group led by Dr Andrew Lyden, Lecturer in Energy System Economics"
   location         : "University of Edinburgh"
   employer         :
   pubmed           : 
